@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;ACXA","file":"src.e31bb0bc.css","sourceRoot":"../src","sourcesContent":["html, body, #root{\n  width: 100%;\n  height: 100%;\n  padding: 0;\n  margin: 0;\n}\n\ndiv{\n  position: relative;\n  overflow: scroll;\n}\n",""]}
